@@ -1,0 +1,10 @@
+D:\Prog\Workspace\Carrinho\Carrinho\bin\Debug\Carrinho.exe.config
+D:\Prog\Workspace\Carrinho\Carrinho\bin\Debug\Carrinho.exe
+D:\Prog\Workspace\Carrinho\Carrinho\bin\Debug\Carrinho.pdb
+D:\Prog\Workspace\Carrinho\Carrinho\obj\Debug\Carrinho.csprojAssemblyReference.cache
+D:\Prog\Workspace\Carrinho\Carrinho\obj\Debug\Carrinho.Form1.resources
+D:\Prog\Workspace\Carrinho\Carrinho\obj\Debug\Carrinho.Properties.Resources.resources
+D:\Prog\Workspace\Carrinho\Carrinho\obj\Debug\Carrinho.csproj.GenerateResource.cache
+D:\Prog\Workspace\Carrinho\Carrinho\obj\Debug\Carrinho.csproj.CoreCompileInputs.cache
+D:\Prog\Workspace\Carrinho\Carrinho\obj\Debug\Carrinho.exe
+D:\Prog\Workspace\Carrinho\Carrinho\obj\Debug\Carrinho.pdb
